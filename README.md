@@ -9,10 +9,6 @@
 Welcome to my GitHub profile! I'm a passionate Python/Django developer with a strong interest in backend development and AI/ML. With hands-on experience in building real-time systems, REST APIs, and intelligent applications, I aim to create tech that makes a difference.
 
 ---
-<p align="center">
-  <img src="./banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
-</p>
----
 
 🔧 **Technologies and Tools:**
 
