@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
+</p>
 
 <p align="center">
   <h1 align="center">Hi, I'm Mohammad Asad 👋</h1>
