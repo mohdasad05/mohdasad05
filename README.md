@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohdasad05/mohdasad05/main/assets/banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
+  <img src="./banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
 </p>
 
 <h1 align="center">Hi, I'm Mohammad Asad 👋</h1>
