@@ -2,6 +2,8 @@
 Python/Django Developer | AI/ML Enthusiast | Backend Engineer  
 [@mohdasad05](https://github.com/mohdasad05)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue)
+
 Welcome to my GitHub profile! I'm a passionate Python/Django developer with a strong interest in backend development and AI/ML. With hands-on experience in building real-time systems, REST APIs, and intelligent applications, I aim to create tech that makes a difference.
 
 ---
@@ -63,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate Python/Django developer with a st
 
 📊 **GitHub Stats:**
 
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdasad05&show_icons=true&theme=radical)
+![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdasad05&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdasad05&layout=compact&theme=radical)
 
 ---
