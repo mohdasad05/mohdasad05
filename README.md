@@ -1,11 +1,10 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohdasad05/mohdasad05/main/assets/banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
 </p>
 
 <h1 align="center">Hi, I'm Mohammad Asad 👋</h1>
 <h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
