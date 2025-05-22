@@ -2,8 +2,7 @@
 <p align="center">
   <h1 align="center">Hi, I'm Mohammad Asad 👋</h1>
   <h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>
-  <p align="center"><a href="https://github.com/mohdasad05">@mohdasad05</a></p>
-  <p align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
   </p>
 </p>
