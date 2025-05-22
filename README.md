@@ -1,11 +1,6 @@
 <p align="center">
   <h1 align="center">Hi, I'm Mohammad Asad 👋</h1>
   <h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>
-  
-<p align="center">
-  <img src="./banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
-</p>
-
   <p>
     <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
   </p>
@@ -13,6 +8,10 @@
 
 Welcome to my GitHub profile! I'm a passionate Python/Django developer with a strong interest in backend development and AI/ML. With hands-on experience in building real-time systems, REST APIs, and intelligent applications, I aim to create tech that makes a difference.
 
+---
+<p align="center">
+  <img src="./banner.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
+</p>
 ---
 
 🔧 **Technologies and Tools:**
