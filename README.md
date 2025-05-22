@@ -1,9 +1,12 @@
 
-# Hi, I'm Mohammad Asad 👋  
-Python/Django Developer | AI/ML Enthusiast | Backend Engineer  
-[@mohdasad05](https://github.com/mohdasad05)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue)
+<p align="center">
+  <h1 align="center">Hi, I'm Mohammad Asad 👋</h1>
+  <h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>
+  <p align="center"><a href="https://github.com/mohdasad05">@mohdasad05</a></p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
+  </p>
+</p>
 
 Welcome to my GitHub profile! I'm a passionate Python/Django developer with a strong interest in backend development and AI/ML. With hands-on experience in building real-time systems, REST APIs, and intelligent applications, I aim to create tech that makes a difference.
 
@@ -66,8 +69,11 @@ Welcome to my GitHub profile! I'm a passionate Python/Django developer with a st
 
 📊 **GitHub Stats:**
 
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdasad05&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdasad05&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdasad05&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdasad05&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdasad05&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
