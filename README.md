@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <h1 align="center">Hi, I'm Mohammad Asad 👋🏻 👨🏻‍💻</h1>
   <!--<h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>-->
 <p align="center">
