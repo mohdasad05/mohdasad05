@@ -6,7 +6,7 @@
   <img src="./header.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
 </p>-->
 
-  <p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
   </p>
 </p>
