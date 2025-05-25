@@ -1,9 +1,11 @@
 <p align="center">
-  <h1>Hi, I'm Mohammad Asad 👋🏻 👨🏻‍💻</h1>
-  <!--<h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>-->
-<p align="center">
+  <h1 align="center">Hi, I'm Mohammad Asad 👋🏻 👨🏻‍💻</h1>
+  <h3 align="center">Python/Django Developer | AI/ML Enthusiast | Backend Engineer</h3>
+  
+<!--<p align="center">
   <img src="./header.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
-</p>
+</p>-->
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
   </p>
