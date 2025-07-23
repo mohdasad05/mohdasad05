@@ -6,7 +6,7 @@
     <img src="./header.png" alt="Mohammad Asad - Python Developer, Backend Engineer & AI/ML Enthusiast" />
   </p>-->
 
-  <p align="left">
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mohdasad05&style=flat-square&color=blue" alt="Profile Views" />
   </p>
 </p>
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a dedicated Python/Django developer passionate about b
 - **Frontend**: HTML, CSS, JavaScript  
 - **Databases**: MySQL, PostgreSQL, DBMS  
 - **AI/ML**: Pandas, NumPy, Scikit-learn, Streamlit, Tableau  
-- **DevOps & Cloud**: Docker, GitHub Actions, Vercel  
+- **DevOps & Cloud**: Docker, Vercel  
 - **Testing**: Pytest, Postman  
 - **Code Quality**: SonarQube, Clean Code Practices  
 - **Version Control**: Git, GitHub, Gitea  
@@ -52,9 +52,9 @@ Welcome to my GitHub! I'm a dedicated Python/Django developer passionate about b
 
 - ✉ [mohdasad.9506@gmail.com](mailto:mohdasad.9506@gmail.com)  
 - 🌐 [Portfolio](https://asadfolio.vercel.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-asad-631647277)  
+- 💼 [LinkedIn](https://linkedin.com/in/mohammad-asad-631647277)  
 - 💻 [GitHub](https://github.com/mohdasad05)  
-- ▶️ [YouTube](https://www.youtube.com/@mohdasad_05)
+- ▶️ [YouTube](https://youtube.com/@mohdasad_05)
 
 ---
 
