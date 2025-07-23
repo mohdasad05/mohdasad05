@@ -63,8 +63,17 @@ Welcome to my GitHub! I'm a dedicated Python/Django developer passionate about b
 - **🦺 WeSalvator – Animal Rescue System**  
   Django + WebSockets-based platform to assign and track rescue tasks in real-time with JWT auth, Redis, Channels.
 
+  **🛒 Buyer-Seller Ecommerce**  
+  Full-featured backend for a role-based e-commerce system using Django REST Framework, MySQL, and JWT authentication with product management, search, and buyer-side ordering.
+
 - **🎬 Movie Recommendation System**  
   A Streamlit app recommending movies using cosine similarity and TMDB metadata.
+
+- **🌸 Iris Classification**  
+  Machine learning project using Scikit-learn to classify Iris flower species based on input features with interactive results.
+
+- **🖼️ Image Classification**  
+  A CNN-based image classifier using TensorFlow/Keras for recognizing categories of images with high accuracy.
 
 - **🔢 Handwritten Digit Recognition**  
   CNN-based classifier for MNIST dataset using TensorFlow/Keras.
