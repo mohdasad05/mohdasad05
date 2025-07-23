@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate Python/Django developer with a st
 📫 **How to Reach Me:**
 
 - ✉ [mohdasad.9506@gmail.com](mailto:mohdasad.9506@gmail.com)  
-- 🌐 [Portfolio](https://mohdasad05.github.io/my-portfolio/)  
+- 🌐 [Portfolio](https://asadfolio.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-asad-631647277)
 
 ---
