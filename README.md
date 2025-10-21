@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm a dedicated Python/Django developer passionate about b
 
 ## 🚀 Highlight Projects
 
-- **🦺 WeSalvator – Animal Rescue System**  
+- **🦺 WeSalvator – Animal Rescue Platform**  
   Django + WebSockets-based platform to assign and track rescue tasks in real-time with JWT auth, Redis, Channels.
 
   **🛒 Buyer-Seller Ecommerce**  
